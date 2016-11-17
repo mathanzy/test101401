@@ -1,4 +1,0 @@
-From:寄件人
-To:收件人
-Subject:a text file test version
-
